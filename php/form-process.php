@@ -41,7 +41,7 @@ if (empty($_POST["message"])) {
 
 
 $EmailTo = "informes@universidaddeensenada.edu.mx";
-$Subject = "New Message Received";
+$Subject = "Nueva solicitud de información";
 
 // prepare email body text
 $Body = "";
