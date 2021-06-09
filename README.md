@@ -1,4 +1,4 @@
 # webpage
-Pagina web universidad de ensenada
+Pagina web Universidad de Ensenada
 
 Primeros avances, de la pagina web.
