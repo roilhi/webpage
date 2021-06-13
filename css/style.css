@@ -544,7 +544,18 @@ a.navbar-brand img {
 	position: relative;
 	background-size: contain;
 	overflow: hidden;
-}
+	text-align: justify;
+	display: inline-block;
+}/*Imagen cabezera de pagina8*/
+
+.textbox{
+    position: absolute;
+	color: #FFF;
+	font-size: 15px;
+    top: 75%;
+    left: 70%;
+    transform: translate(-30%, -70%);
+}/*Contenedor del texto descriptvo de la imagen*/
 
 
 /*------------------------------------------------------------------ Banner -------------------------------------------------------------------*/
