@@ -2,41 +2,32 @@
 
 $errorMSG = "";
 
-// NAME
-if (empty($_POST["name"])) {
-    $errorMSG = "Name is required ";
+// Nombre
+if (empty($_POST['nombre'])) {
+    $errorMSG = "Por favor, ingresa un nombre.";
 } else {
-    $name = $_POST["name"];
+    $name = $_POST['nombre'];
 }
 
-// EMAIL
-if (empty($_POST["email"])) {
-    $errorMSG .= "Email is required ";
+// Correo Electronico
+if (empty($_POST['correoElectronico'])) {
+    $errorMSG .= "Por favor, ingresa un correo electrónico";
 } else {
-    $email = $_POST["email"];
+    $email = $_POST['correoElectronico'];
 }
 
-// MSG Guest
-if (empty($_POST["guest"])) {
-    $errorMSG .= "Subject is required ";
+// Numero Telefonico
+if (empty($_POST['telefono'])) {
+    $errorMSG .= "Por favor, ingresa un numero telefónico";
 } else {
-    $guest = $_POST["guest"];
+    $phone_number = $_POST['telefono'];
 }
 
-
-// MSG Event
-if (empty($_POST["event"])) {
-    $errorMSG .= "Subject is required ";
+// Mensaje
+if (empty($_POST['mensaje'])) {
+    $errorMSG .= "No haz ingresado tu mensaje y/o comentario";
 } else {
-    $event = $_POST["event"];
-}
-
-
-// MESSAGE
-if (empty($_POST["message"])) {
-    $errorMSG .= "Message is required ";
-} else {
-    $message = $_POST["message"];
+    $message = $_POST['mensaje'];
 }
 
 
@@ -45,19 +36,16 @@ $Subject = "Nueva solicitud de información";
 
 // prepare email body text
 $Body = "";
-$Body .= "Name: ";
+$Body .= "Nombre: ";
 $Body .= $name;
 $Body .= "\n";
-$Body .= "Email: ";
+$Body .= "Correo Electrónico: ";
 $Body .= $email;
 $Body .= "\n";
-$Body .= "guest: ";
-$Body .= $guest;
+$Body .= "Numero Telefónico: ";
+$Body .= $phone_number;
 $Body .= "\n";
-$Body .= "event: ";
-$Body .= $event;
-$Body .= "\n";
-$Body .= "Message: ";
+$Body .= "Mensaje: ";
 $Body .= $message;
 $Body .= "\n";
 
@@ -69,7 +57,7 @@ if ($success && $errorMSG == ""){
    echo "success";
 }else{
     if($errorMSG == ""){
-        echo "Something went wrong :(";
+        echo "Hubo un error :(";
     } else {
         echo $errorMSG;
     }
