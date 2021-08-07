@@ -31,8 +31,7 @@ if (empty($_POST['mensaje'])) {
 }
 
 
-$EmailTo = "informes@universidaddeensenada.edu.mx";
-$Subject = "Nueva solicitud de información";
+	@@ -45,19 +36,16 @@
 
 // prepare email body text
 $Body = "";
@@ -49,11 +48,7 @@ $Body .= "Mensaje: ";
 $Body .= $message;
 $Body .= "\n";
 
-// send email
-$success = mail($EmailTo, $Subject, $Body, "From:".$email);
-
-// redirect to success page
-if ($success && $errorMSG == ""){
+	@@ -69,7 +57,7 @@
    echo "success";
 }else{
     if($errorMSG == ""){
@@ -61,6 +56,5 @@ if ($success && $errorMSG == ""){
     } else {
         echo $errorMSG;
     }
-}
 
 ?>
