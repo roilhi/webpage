@@ -337,6 +337,12 @@ button:focus {
 	padding-bottom: 0 !important;
 }
 
+/* To insert vertical blank space between paragraphs----------*/
+
+.bottom-three {
+	margin-bottom: 3cm;
+ }
+
 /*------------------------------------------------------------------ HEADER -------------------------------------------------------------------*/
 
 .top-header .navbar {
