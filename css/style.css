@@ -357,7 +357,7 @@ button:focus {
     z-index: 20;
     background-position: left;
     background-repeat: no-repeat;
-    background-color: #fff
+    /*background-color: #fff
 		/*background: transparent;*/
     background-size: auto 100%;
     width: 90%;
@@ -380,10 +380,12 @@ a.navbar-brand {
     position: relative;
 	background: transparent;
 	color: #12385b;
+	width: 5%;
 }
 
 a.navbar-brand img {
-    height: 75px;
+    /*height: 75px;*/
+	width: 100%;
 }
 
 .top-header .navbar .navbar-collapse ul li a.active {}
@@ -454,7 +456,7 @@ a.navbar-brand img {
 }
 
 .navbar-toggler span {
-	background: #0000;
+	background-color: white;
 	display: block;
 	width: 22px;
 	height: 2px;
@@ -471,6 +473,7 @@ a.navbar-brand img {
 }
 
 .navbar-toggler span+span {
+	background-color: white;
 	margin-top: 5px;
 }
 
@@ -1585,13 +1588,13 @@ p.count-text {
 	background: #fff;
 	color: #00bed3;
 }
-
+/*
 @media only screen and (max-width: 990px) {
 	.our-team {
 		margin-bottom: 30px;
 	}
 }
-
+*/
 
 /*------------------------------------------------------------------ Blog -------------------------------------------------------------------*/
 
