@@ -735,32 +735,6 @@ a.navbar-brand img {
 		left: 25%;
 		top: 50%;
 }
-.mycontact_bt {
-    width: 180px;
-    height: 50px;
-	background: #003366;
-    color: #fff;
-    float: left;
-    line-height: 50px;
-    text-align: center;
-    font-size: 18px;
-    font-weight: 500;
-    margin-top: 50px;
-    border-radius: 5px;
-		/* Margenes para desplazar el texto hacia abajo */
-		top: 350px;
-		left: 5px;
-		position: absolute;
-}
-.mycontact_bt:hover,
-.mycontact_bt:focus {
-    color: #fff;
-}
-
-.dark_bg .mycontact_bt {
-    margin-top: 30px;
-}
-
 
 .contact_bt:hover,
 .contact_bt:focus {
