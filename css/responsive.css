@@ -12,6 +12,9 @@
     }
      .contact_bt {
          margin-top: 25px;
+         /*background-color: red;*/
+         left: 25%;
+         top: 125px;
     }
      .slide_text {
          margin-top: 70px;
