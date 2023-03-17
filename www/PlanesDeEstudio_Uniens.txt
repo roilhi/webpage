@@ -1,0 +1,513 @@
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LCE Licenciatura en Ciencias de la Educación
+1er cuatrimestre
+Desarrollo Personal
+Filosofía de la Educación
+Sistema Educativo Mexicano
+Historia de la Educación
+Gestión de Medios Electrónicos
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Pensamiento Estratégico
+Psicología Evolutiva
+Sociología Educativa
+Taller de Lectoescritura
+Teoría educativa 1
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre
+Psicología Educativa
+Psicología Evolutiva II
+Política Educativa 
+Desarrollo y Sustentabilidad
+Teoría Educativa II
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre 
+Didáctica I
+Estadística I
+Psicotécnica Pedagógica
+Problemas de aprendizaje
+Ética y Desarrollo Profesional
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre
+Didáctica II
+Estadística II
+Evaluación Educativa
+Diseño Curricular I 
+Taller de Materiales Didácticos
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre
+Liderazgo
+Habilidades para la investigación
+Orientación Educativa y Tutoría I
+Diseño Curricular II
+Software Educativo
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre
+Administración y Gestión Escolar
+Investigación Educativa
+Orientación Educativa y Tutoría II
+Práctica y Observación Escolar I
+Psicotécnica Laboral
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Sistemas de Acreditación y Certificación 
+Finanzas Educativas
+Evaluación Institucional
+Práctica y Observación Escolar II
+Seminario de Investigación Investigación I
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre
+Laboratorio Docente
+Empresa y Educación
+Seminario de Corrientes Educativas
+Necesidades Educativas Especiales
+Seminario de Investigación
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LC Licenciatura en Criminología 
+1er cuatrimestre
+Introducción a las Ciencias Jurídicas
+Criminalística General
+Historia del Derecho Mexicano
+Método Estadístico
+Informática
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Teorías del Derecho Constitucional
+Criminología I
+Bases Biológicas del Comportamiento
+Metodología de la Investigación
+Derecho Penal
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre
+Identificación criminal
+Criminología II
+Sexualidad Humana
+Lexicología Jurídica
+Derecho Penal II
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre
+Teorías de la Personalidad
+Psicología Clínica y Criminología
+Balística y Fotografía Forense
+Filosofía y Ética 
+Derecho Penal III 
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre
+Psicopatología 
+Práctica Forense
+Organización y Administración Policial 
+Menores Infractores y Delincuencia Femenil
+Nuevo Sistema de Justicia Penal
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre
+Amparo I 
+Dactiloscopía y Grafoscopía 
+Sistemas Penitenciarios
+Medios Alternativos y Solución de Conflictos
+Procesal Penal 
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre
+Amparo II 
+Evaluación Criminológica
+Prenvención del Delito
+Seguridad Privada 
+Victimología 
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Delincuencia Asociada
+Química y Hematología Forense 
+Política Criminológica
+Evaluación Psicológica
+Argumentación Jurídica
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre
+Especialización en Prenvención del Delito
+Especialización en Seguridad Pública
+Especialización en Sistemas Penitenciarios
+Desarrollo de Potencialidades Humanas
+Seminario de Tesis 
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LD Licenciatura en Derecho
+1er cuatrimestre
+Metodología de la Investigación
+Introducción a la Ciencia Jurídica
+Historia del Derecho Mexicano
+Informática
+Derecho Romano I 
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Teoría del Estado
+Axiología Jurídica
+Derecho Familiar
+Derecho Penal I 
+Derecho Romano II
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre 
+Derechos Humanos
+Derecho Civil I
+Derecho Procesal
+Derecho Penal II 
+Lexicología Jurídica
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre
+Derecho Laboral I 
+Derecho Civil II 
+Derecho Constitucional
+Derecho Penal III
+Derecho Administrativo I 
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre
+Derecho Laboral II
+Derecho Civil III 
+Derecho Migratorio
+Nuevo Sistema de Justicia Penal 
+Derecho Administrativo II 
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre
+Procesal Laboral 
+Procesal Civil
+Derecho Mercantil I 
+Procesal Penal
+Medios Alternativos y Solución de Conflictos
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre
+Derecho Agrario 
+Derecho Internacional Público
+Derecho Mercantil II 
+Derecho Fiscal 
+Derecho Registral 
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Amparo I 
+Derecho Internacional Privado
+Procesal Mercantil 
+Impuestos Especiales 
+Procesal Administrativo
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre
+Amparo II 
+Derecho Aduanal
+Argumentación Jurídica
+Práctica Forense
+Filosofía y Ética 
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LII Licenciatura en Ingeniería Industrial
+1er cuatrimestre 
+Contabilidad
+Métodos de Programación 
+Introducción a la Ingeniería Industrial 
+Gestión de la Información
+Fundamentos Matemáticos para Ingeniería
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Análisis y Organización de Datos
+Dibujo
+Cálculo Diferencial
+Química
+Taller de Expresión 
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre
+Métodos Numéricos
+Probabilidad
+Cálculo Integral
+Materiales
+Ética Profesional
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre
+Manufactura de Materiales
+Electricidad y Magnetismo
+Diseño Mecánico
+Ecuaciones Diferenciales
+Redacción Avanzada
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre 
+Manufactura Esbelta
+Cálculo Multivariable
+Electrónica Industrial
+Gestión e Innovación Tecnológica
+Estática
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre
+Administración Industrial
+Ingeniería de Calidad 
+Ingeniería de Métodos
+Metodología de la Investigación
+Dinámica
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre
+Modelo de Operaciones I
+Inferencia Estadística
+Diseño de Experimentos
+Seguridad Industrial
+Psicología Organizacional
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Modelo de Operaciones II 
+Ergonomía 
+Tópicos de Ingeniería Industrial
+Análisis y Toma de Decisiones
+Ingeniería de Sistemas de Producción I
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre
+Simulación de Sistemas 
+Administración de Proyectos Industriales
+Ingeniería Económica
+Proyectos de Aplicación de Ingeniería
+Ingeniería de Sistemas de Producción II
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LAEYL Licenciatura en Administración de Empresas y Logística
+1er cuatrimestre
+Administración
+Derecho Privado
+Contabilidad Financiera I 
+Globalización y Desarrollo Económico
+Lexicología Jurídica
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Matemáticas
+Habilidades del Pensamiento
+Contabilidad Financiera II 
+Economía
+Sistema de Información Gerencial 
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre
+Estadística
+Administración de Mercadotecnia
+Análisis Financiero
+Derecho Laboral y Seguridad Social 
+Ser Humano y Medio Ambiente 
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre
+Modelos Cuantitativos para los Negocios
+Administración de Recursos Humanos 
+Costos
+Administración de PYMES y Franquicias
+Comportamiento Humano en la Organización
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre 
+Metodología de la Investigación
+Interpretación de Estudios de Mercado 
+Contabilidad Administrativa
+Legislación Fiscal Internacional I 
+Ley Aduanera I 
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre 
+Metodología para la Mejora de Sistemas 
+Administración Estratégica
+Administración de Sistemas de Producción
+Desarrollo de Proveedores 
+Legislación Fiscal Internacional II
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre 
+Administración Financiera
+Auditoría y Consultoría Administrativa
+Administración de Proyectos 
+Filosofía de la Administración
+Ley Aduanera II 
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Lección de Liderazgo
+Logística de Operaciones
+Medios Alternativos y Solución de Conflictos
+Desarrollo de Emprendedores
+Evaluación de Proyectos
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre
+Proyecto de Inversión 
+Negociación 
+Administración de Organizaciones Globales 
+Seminario de Administración y Logística
+Seminario de Alta Dirección 
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LF Licenciatura en Filosofía
+1er cuatrimestre
+Ser Humano y Medio Ambiente
+Filosofía de la Educación
+Taller de Lectoescritura
+Estadística I 
+Inglés I 
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Introducción a la Filosofía
+Taller de Oratoria I 
+Lógica I 
+Estadística II 
+Inglés II 
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre 
+Introducción a Aristóteles
+Taller de Oratoria II 
+Lógica II 
+Metodología de la Investigación I 
+Habilidades del Pensamiento 
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre
+Didáctica I 
+Historia de la Filosofía Medieval 
+Sociología Educativa 
+Metodología de la Investigación II 
+Métodos Filosóficos 
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre
+Didáctica II 
+Historia de la Filosofía Moderna I 
+Antropología Científica 
+Ética I 
+Filosofía de la Historia 
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre
+Filosofía Antigua 
+Historia de la Filosofía Moderna I 
+Antropología Científica II 
+Ética II 
+Filosofía del Conocimiento 
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre
+Antropología Filosófica 
+Filosofía del Derecho 
+Filosofía Social 
+Desarrollo Evolutivo 
+Derecho Familiar 
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Seminario de Investigación
+Síntesis Filosófica
+Ética Social 
+Filosofía Mexicana 
+Filosofía de la Ciencia 
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre 
+Seminario de Investigación II 
+Síntesis Filosófica II 
+Ética Social II 
+Historia de la Filosofía del Siglo XXI 
+Pensamiento Estratégico
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LNI Licenciatura en Negocios Internacionales
+1er cuatrimestre
+Comunicación 
+Elaboración de Textos Académicos
+Tecnologías de la Información
+Ética
+Estadística
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Introducción a los Negocios
+Contabilidad Financiera
+Administración
+Derecho Privado
+Metodología de la Investigación
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre
+Geografía de Negocios Internacionales
+Contabilidad Intermedia 
+Matemáticas
+Marco Legal de los Negocios
+Economía
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre
+Administración de Mercadotecnia
+Análisis Financiero
+Economía Internacional
+Derecho Laboral
+Ser Humano y Sociedad
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre
+Administración de Operaciones
+Costos
+Comportamiento Transcultural
+Gestión del Talento Humano
+Inglés Básico
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre
+Administración de la Cadena de Suministros
+Contabilidad Administrativa
+Comercio Internacional
+Sistemas de Información Gerencial
+Inglés Intermedio
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre
+Administración Financiera
+Normatividad de Comercio Exterior
+Análisis del Mercado Internacional
+Globalización, Cultura y Sociedad
+Inglés Avanzado 
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Administración Estratégica Global
+Emprendedores
+Ser Humano y Sustentabilidad
+Ciudadanía Global 
+Redacción en Inglés
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre
+Logística Internacional
+Finanzas Internacionales
+Seminario de Negocios Internacionales
+Estrategia de Negocios Internacionales
+Gestión Aduanera
+//  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+LMA Licenciatura en Medios Audiovisuales
+1er cuatrimestre
+Elementos básicos de las herramientas digitales
+Habilidades del Pensamiento
+Redacción I 
+Teorías de la Comunicación
+Historia de los Medios Audiovisuales
+/ --------------------------------------------------------------------------------------------------
+2do cuatrimestre
+Diseño Digital Aplicado 
+Técnicas de Investigación
+Redacción II 
+Conceptos Generales de la Ética
+Fotografía I 
+/ --------------------------------------------------------------------------------------------------
+3er cuatrimestre
+Edición Digital
+Semiótica 
+Géneros Periodísticos
+Ética de las Nuevas Tecnologías
+Photoshop
+/ --------------------------------------------------------------------------------------------------
+4to cuatrimestre
+Animación 2D
+Semiótica de las Imágenes y los Colores 
+Taller de Locución
+Elementos Jurídicos de la Comunicación
+Técnica de video (movimientos, control de cámara)
+/ --------------------------------------------------------------------------------------------------
+5to cuatrimestre
+Animación 3D
+Teoría y Estética de la Imagen 
+Diseño de Audio (técnicas de grabación de sonido)
+Mercadotecnia
+Producción de Radio 
+/ --------------------------------------------------------------------------------------------------
+6to cuatrimestre
+Diseño Multimedia 
+Taller de Creatividad e Innovación
+Comunicación Institucional y Corporativa
+Administración Estratégica
+Producción de Televisión
+/ --------------------------------------------------------------------------------------------------
+7mo cuatrimestre
+Producción Digital
+Diseño de Escenografía 
+Diseño Publicitario
+Taller de Emprendedores I 
+Historia y Teoría del Cine
+/ --------------------------------------------------------------------------------------------------
+8vo cuatrimestre
+Taller de Edición (video y audio) 
+Dirección de Escenografía
+Branding (creación de marcas)
+Taller de Emprendedores II 
+Producción de Cine 
+/ --------------------------------------------------------------------------------------------------
+9no cuatrimestre
+Innovación y Nuevos Mercados
+Propaganda Política
+Planeación Estratégica de Medios Audiovisuales
+Plan de Negocios
+Taller de Redes Sociales 
+
