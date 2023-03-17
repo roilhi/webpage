@@ -1,4 +1,4 @@
-#docker build --no-cache --tag roilhi/homepage-iteci:1.0.0 . && docker push roilhi/homepage-iteci:1.0.0
+#docker build --no-cache --tag ileonelperea/website_prepa:1.0.0 . && docker push ileonelperea/website_prepa:1.0.0
 FROM php:8.1.6-apache
 
 # Install packages
